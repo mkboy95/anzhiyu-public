@@ -5,7 +5,7 @@
   diytitle: {"enable":true,"leaveTitle":"w(ﾟДﾟ)w 不要走！再看看嘛！","backTitle":"♪(^∇^*)欢迎肥来！"},
   LA51: undefined,
   greetingBox: undefined,
-  twikooEnvId: 'https://pj365.top',
+  twikooEnvId: 'https://pl.pj365.top',
   commentBarrageConfig:undefined,
   music_page_default: "nav_music",
   root: '/',
@@ -288,7 +288,7 @@ queueMicrotask(() => {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://pj365.top',
+      envId: 'https://pl.pj365.top',
       region: '',
       onCommentLoaded: () => {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -305,7 +305,7 @@ queueMicrotask(() => {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://pj365.top',
+      envId: 'https://pl.pj365.top',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -347,7 +347,7 @@ queueMicrotask(() => {
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'https://pj365.top',
+        envId: 'https://pl.pj365.top',
         region: '',
         pageSize: 6,
         includeReply: true
