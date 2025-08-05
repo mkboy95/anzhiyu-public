@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.pj365.top/album/index.html</loc>
+    
+    <lastmod>2025-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.pj365.top/dailyPhoto/index.html</loc>
+    
+    <lastmod>2025-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.pj365.top/meinv/index.html</loc>
+    
+    <lastmod>2025-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.pj365.top/link/index.html</loc>
     
     <lastmod>2025-08-05</lastmod>
