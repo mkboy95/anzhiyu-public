@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.pj365.top/gallery/25-08-19/index.html</loc>
+    <loc>http://www.pj365.top/gallery/index.html</loc>
     
     <lastmod>2025-08-19</lastmod>
     
@@ -11,7 +11,25 @@
   </url>
   
   <url>
-    <loc>http://www.pj365.top/gallery/index.html</loc>
+    <loc>http://www.pj365.top/gallery/25-08-20/index.html</loc>
+    
+    <lastmod>2025-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.pj365.top/gallery/25-08-21/index.html</loc>
+    
+    <lastmod>2025-08-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.pj365.top/gallery/25-08-19/index.html</loc>
     
     <lastmod>2025-08-19</lastmod>
     
@@ -203,6 +221,20 @@
   </url>
   
   <url>
+    <loc>http://www.pj365.top/tags/%E8%8B%B9%E6%9E%9C%E7%A0%B4%E8%A7%A3/</loc>
+    <lastmod>2025-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.pj365.top/tags/%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97/</loc>
+    <lastmod>2025-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.pj365.top/tags/%E7%A3%81%E5%8A%9B/</loc>
     <lastmod>2025-08-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -246,20 +278,6 @@
   
   <url>
     <loc>http://www.pj365.top/tags/%E7%99%BD%E5%AB%96/</loc>
-    <lastmod>2025-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.pj365.top/tags/%E8%8B%B9%E6%9E%9C%E7%A0%B4%E8%A7%A3/</loc>
-    <lastmod>2025-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.pj365.top/tags/%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97/</loc>
     <lastmod>2025-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
